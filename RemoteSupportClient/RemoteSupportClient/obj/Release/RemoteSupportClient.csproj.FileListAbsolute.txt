@@ -1,0 +1,11 @@
+C:\Users\Owner\Google Drive\Projects\CSharpRemoteSupport\RemoteSupportClient\RemoteSupportClient\bin\Release\RemoteSupportClient.exe.config
+C:\Users\Owner\Google Drive\Projects\CSharpRemoteSupport\RemoteSupportClient\RemoteSupportClient\bin\Release\RemoteSupportClient.exe
+C:\Users\Owner\Google Drive\Projects\CSharpRemoteSupport\RemoteSupportClient\RemoteSupportClient\bin\Release\RemoteSupportClient.pdb
+C:\Users\Owner\Google Drive\Projects\CSharpRemoteSupport\RemoteSupportClient\RemoteSupportClient\bin\Release\RemoteSupportClient.exe.CodeAnalysisLog.xml
+C:\Users\Owner\Google Drive\Projects\CSharpRemoteSupport\RemoteSupportClient\RemoteSupportClient\bin\Release\RemoteSupportClient.exe.lastcodeanalysissucceeded
+C:\Users\Owner\Google Drive\Projects\CSharpRemoteSupport\RemoteSupportClient\RemoteSupportClient\obj\Release\RemoteSupportClient.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Google Drive\Projects\CSharpRemoteSupport\RemoteSupportClient\RemoteSupportClient\obj\Release\RemoteSupportClient.Form1.resources
+C:\Users\Owner\Google Drive\Projects\CSharpRemoteSupport\RemoteSupportClient\RemoteSupportClient\obj\Release\RemoteSupportClient.Properties.Resources.resources
+C:\Users\Owner\Google Drive\Projects\CSharpRemoteSupport\RemoteSupportClient\RemoteSupportClient\obj\Release\RemoteSupportClient.csproj.GenerateResource.Cache
+C:\Users\Owner\Google Drive\Projects\CSharpRemoteSupport\RemoteSupportClient\RemoteSupportClient\obj\Release\RemoteSupportClient.exe
+C:\Users\Owner\Google Drive\Projects\CSharpRemoteSupport\RemoteSupportClient\RemoteSupportClient\obj\Release\RemoteSupportClient.pdb
